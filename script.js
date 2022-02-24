@@ -1,4 +1,4 @@
-            winCount = 0;
+           		winCount = 0;
 			tieCount = 0;
 			lossCount = 0;
 
